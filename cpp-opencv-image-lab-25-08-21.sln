@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25-08-21", "25-08-21\25-08-21.vcxproj", "{DFCBE2B4-F57E-49E6-8E5C-93DB9D1CEC89}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp-opencv-image-lab-25-08-21", "cpp-opencv-image-lab-25-08-21\cpp-opencv-image-lab-25-08-21.vcxproj", "{DFCBE2B4-F57E-49E6-8E5C-93DB9D1CEC89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
